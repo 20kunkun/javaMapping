@@ -107,6 +107,7 @@ public class ZC01 extends AbstractTransformation {
 	}
 	
 /*
+ * **********************测试案例******************************
 转换前XML:
 <?xml version="1.0" encoding="UTF-8"?>
 <ns0:mt_zc01 xmlns:ns0="http://www.ijovo.com/mm">
@@ -161,6 +162,7 @@ public class ZC01 extends AbstractTransformation {
         }
     ]
 ]
+ * **********************测试案例******************************
 */
 
 }
